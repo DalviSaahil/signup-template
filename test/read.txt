@@ -1,0 +1,12 @@
+npm init -y
+npm install
+
+npm install expressD
+
+npm install cors
+
+npm install mongoose
+
+npm install body-parser
+
+necessary
